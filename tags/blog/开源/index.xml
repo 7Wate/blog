@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog/开源 on 向阳而生</title><link>https://blog.7wate.com/tags/blog/%E5%BC%80%E6%BA%90/</link><description>Recent content in Blog/开源 on 向阳而生</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.7wate.com/tags/blog/%E5%BC%80%E6%BA%90/index.xml" rel="self" type="application/rss+xml"/><item><title>我又从 Ubunut 换成了 Fedora</title><link>https://blog.7wate.com/%E6%88%91%E5%8F%88%E4%BB%8E-ubunut-%E6%8D%A2%E6%88%90%E4%BA%86-fedora/</link><pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E6%88%91%E5%8F%88%E4%BB%8E-ubunut-%E6%8D%A2%E6%88%90%E4%BA%86-fedora/</guid><description>&lt;p>去年我从 Windows 换到了 Linux，并选择了新手友好发行版——Ubuntu，并介绍了一些关于 Linux 桌面使用中的坑和解决方法。尽管现在我仍&lt;strong>更推荐使用 MacOS&lt;/strong>或 Windows，但既然你点开了这篇文章，那就坚定地接受 Linux 的缺点吧哈哈哈。&lt;/p></description></item><item><title>Python 项目终极部署解决方案</title><link>https://blog.7wate.com/python-%E9%A1%B9%E7%9B%AE%E7%BB%88%E6%9E%81%E9%83%A8%E7%BD%B2%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/python-%E9%A1%B9%E7%9B%AE%E7%BB%88%E6%9E%81%E9%83%A8%E7%BD%B2%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</guid><description>&lt;p>Python 作为一门历史悠久的编程语言，起初角色定位于 Liunx 下的脚本语言。最初作为 Linux 下的脚本语言诞生。随着时间推移，Python 不断引入新特性，逐步演变成一种功能强大、用途广泛的语言。目前被广泛应用于数据科学、Web 应用开发等多个领域。&lt;/p></description></item><item><title>浅尝 Gitea 的 Actions</title><link>https://blog.7wate.com/%E6%B5%85%E5%B0%9D-gitea-%E7%9A%84-actions/</link><pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E6%B5%85%E5%B0%9D-gitea-%E7%9A%84-actions/</guid><description>&lt;h2 class="heading" id="前言">
+ 前言
+ &lt;a class="anchor" href="#%e5%89%8d%e8%a8%80">#&lt;/a>
+&lt;/h2>
+&lt;p>Gitea 是一个轻量级的 DevOps 平台软件。从开发计划到产品成型的整个软件生命周期，它都能够高效而轻松地帮助团队和开发者，实现包括 Git 托管、代码审查、团队协作、软件包注册和 CI/CD 等功能。它与 GitHub、Bitbucket 和 GitLab 等 &lt;a href="https://docs.gitea.com/zh-cn/installation/comparison">比较&lt;/a> 类似。&lt;/p></description></item><item><title>揭晓你的博客一年之最，尽在 EndOfYear！</title><link>https://blog.7wate.com/%E6%8F%AD%E6%99%93%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E4%B8%80%E5%B9%B4%E4%B9%8B%E6%9C%80%E5%B0%BD%E5%9C%A8-endofyear/</link><pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E6%8F%AD%E6%99%93%E4%BD%A0%E7%9A%84%E5%8D%9A%E5%AE%A2%E4%B8%80%E5%B9%B4%E4%B9%8B%E6%9C%80%E5%B0%BD%E5%9C%A8-endofyear/</guid><description>&lt;h2 class="heading" id="-揭晓你的博客一年之最尽在-endofyear">
+ 🔥 揭晓你的博客一年之最，尽在 EndOfYear
+ &lt;a class="anchor" href="#-%e6%8f%ad%e6%99%93%e4%bd%a0%e7%9a%84%e5%8d%9a%e5%ae%a2%e4%b8%80%e5%b9%b4%e4%b9%8b%e6%9c%80%e5%b0%bd%e5%9c%a8-endofyear">#&lt;/a>
+&lt;/h2>
+&lt;p>为你的博客一年的辛勤付出画上一个完美的句号，让 EndOfYear 为你点亮写作之路！&lt;/p>
+&lt;p>你是一个热爱写作的博主，想知道你的博客一年来的表现如何吗？EndOfYear 它能通过 RSS 抓取你的博客文章数据，然后进行统计、分析和整理，最终生成一份全面、客观的年度报告。&lt;/p></description></item><item><title>电脑坏了，我换了 Ubuntu</title><link>https://blog.7wate.com/%E7%94%B5%E8%84%91%E5%9D%8F%E4%BA%86%E6%88%91%E6%8D%A2%E4%BA%86-ubuntu/</link><pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E7%94%B5%E8%84%91%E5%9D%8F%E4%BA%86%E6%88%91%E6%8D%A2%E4%BA%86-ubuntu/</guid><description>&lt;p>使用了将近十年的笔记本，前段时间因为太热，机械硬盘掉盘了。不过还有一块固态硬盘是装的系统，但是 Windows 系统却崩了，许多软件也都打不开了。尽管这台笔记本已经快十年了，但它的 32GB 内存和 1TB 固态硬盘仍然非常给力。然而，日常开发需要使用 Docker 和 WSL 以及 Jetbrains 的全家桶，32GB 的内存在 Windows 系统下仍然感觉不够，经常会用满……&lt;/p></description></item><item><title>Obsidian 使用 Templater 插件的个性化脚本</title><link>https://blog.7wate.com/obsidian-%E4%BD%BF%E7%94%A8-templater-%E6%8F%92%E4%BB%B6%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC/</link><pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/obsidian-%E4%BD%BF%E7%94%A8-templater-%E6%8F%92%E4%BB%B6%E7%9A%84%E4%B8%AA%E6%80%A7%E5%8C%96%E8%84%9A%E6%9C%AC/</guid><description>&lt;p>Templater 是 Obsidian 的一个模板插件，它定义了一种模板语言，可将变量和函数结果插入到笔记中。它还将允许执行 JavaScript 代码来操作这些变量和函数。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/SilentVoid13/Templater">Templater 仓库&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://silentvoid13.github.io/Templater/">Templater 文档&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>Templater 插件允许执行用户个性化脚本，我基于 Templater 利用 ChatGPT 开发完善了三个脚本，简单分享一下，最终实现日志自动获取每日天气，月相，每日诗词开发的三个小脚本，实现效果如下：&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - 个人工作流</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E6%B5%81/</link><pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E4%B8%AA%E4%BA%BA%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid><description>&lt;p>谈谈我的「数字文具盒」系列是我一直不断打磨的个人生产力工具经验分享贴。尽管前期有些折腾，可实际用起来却是嘎嘎好用。数字文具盒一贯宗旨&lt;strong>倡导以结果为导向，切勿盲目折腾，适合自己的才是最好的。&lt;/strong>&lt;/p></description></item><item><title>Docusaurus 搭建</title><link>https://blog.7wate.com/docusaurus-%E6%90%AD%E5%BB%BA/</link><pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/docusaurus-%E6%90%AD%E5%BB%BA/</guid><description>&lt;p>Docusaurus 是一款&lt;strong>静态站点生成器&lt;/strong>。 可以搭建带有快速客户端导航的&lt;strong>单页应用&lt;/strong>，充分利用了 &lt;strong>React&lt;/strong>，让你的网站具有交互能力。 它提供了开箱即用的&lt;strong>文档功能&lt;/strong>，不过也可用于搭建&lt;strong>各种网站&lt;/strong>：个人网站、产品、博客、营销主页等等。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - NextCloud</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-nextcloud/</link><pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-nextcloud/</guid><description>&lt;p>接下来两篇主要谈论 Nextcloud 和 Obsidian，因为篇幅较长，所以单出罗列出来。本文主要介绍 Nextcloud 以及使用中的技巧和心得体会。&lt;/p>
+&lt;h2 class="heading" id="nextcloud">
+ Nextcloud
+ &lt;a class="anchor" href="#nextcloud">#&lt;/a>
+&lt;/h2>
+&lt;p>Nextcloud 是一套用于创建网络硬盘的客户端－服务器软件。其功能与 Dropbox 相近，但 Nextcloud 是自由及开放源代码软件，每个人都可以在私人服务器上安装并执行它。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - Obsidian</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-obsidian/</link><pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-obsidian/</guid><description>&lt;p>这篇关于 Obsidian 是生产力工具的终篇了，因为目前涉及 Obsidian 的文章特别多，所以我就不啰里啰唆叙述重复的文字了。本文主要涉及到 Obsidian 和 Docusaurus 如何进行有机的结合。&lt;/p>
+&lt;h2 class="heading" id="obsidian">
+ Obsidian
+ &lt;a class="anchor" href="#obsidian">#&lt;/a>
+&lt;/h2>
+&lt;p>
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class="">
+
+ &lt;div>
+ &lt;img loading="lazy" alt="screenshot-1.0-hero-combo" src="https://static.7wate.com/img/2022/11/30/02c7a7cf1ab33.png" >
+ &lt;/div>
+
+ 
+&lt;/figure>
+&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - 生产力工具（下）</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%B8%8B/</link><pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%B8%8B/</guid><description>&lt;p>下文接着生产力工具继续说起，主要涉及到一些非常好用、事半功倍的工具！&lt;/p>
+&lt;h2 class="heading" id="思维脑图">
+ 思维脑图
+ &lt;a class="anchor" href="#%e6%80%9d%e7%bb%b4%e8%84%91%e5%9b%be">#&lt;/a>
+&lt;/h2>
+&lt;p>思维导图（mind map）是一种用图像整理信息的图解。它用一个中央关键词或想法以辐射线形连接所有的代表字词、想法、任务或其它关联项目。它可以利用不同的方式去表现人们的想法，如引题式、可见形象化式、建构系统式和分类式。它普遍地用作在研究、组织、解决问题和政策制定中。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - 心得体会</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</link><pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/</guid><description>&lt;p>谈谈我的「数字文具盒」系列文章更多的是作为指南针，总的来说并不全面也不包含具体的操作细节，我的「数字文具盒」核心指导思想：适合自己的才是最好的、数据自主权、提高效率切勿折腾。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - 番外篇</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E7%95%AA%E5%A4%96%E7%AF%87/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E7%95%AA%E5%A4%96%E7%AF%87/</guid><description>&lt;p>互联网时代开放、自由、无感的网络访问环境极其重要。基于天朝特色社会主义，「数字文具盒」特地衍生出番外篇——涉及网络环境的建设。主要从 DNS 和 网络 两个点切入，最终打造开放、自由、无感的数字生活。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - 生产力工具（上）</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%B8%8A/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%B7%A5%E5%85%B7%E4%B8%8A/</guid><description>&lt;p>在完成了数字基建、运行平台的搭建后，迎来应用服务 - 生产力工具的搭建；生产力工具主要从公共服务、工具、程序开发三个方面来说。由于全文篇幅字数较多，故分为上下两篇分开阅读。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - 数字基建</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E6%95%B0%E5%AD%97%E5%9F%BA%E5%BB%BA/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E6%95%B0%E5%AD%97%E5%9F%BA%E5%BB%BA/</guid><description>&lt;p>万丈高楼平地起，只有打好地基才能更好的实现数字文具盒。传统意义上的基础设施主要是公路、电网、供水等设施；数字基建则是互联网、数据中心等数字化设施。本文的数字基建主要是：云服务器 + 域名。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」 - 运行平台</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E8%BF%90%E8%A1%8C%E5%B9%B3%E5%8F%B0/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92-%E8%BF%90%E8%A1%8C%E5%B9%B3%E5%8F%B0/</guid><description>&lt;p>数字基建准备工作完成以后，就要准备搭建运行平台；简单来说运行平台是云服务器与应用服务的中间层起着承上启下的作用。例如操作系统的选择、运行模式的规划、数据存储的模式、系统安全的完善。&lt;/p></description></item><item><title>谈谈我的「数字文具盒」</title><link>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92/</link><pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E8%B0%88%E8%B0%88%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E6%96%87%E5%85%B7%E7%9B%92/</guid><description>&lt;p>最近耗费了一周的时间迁移服务器，升级打造 V3 版本的「数字文具盒」。从 2018 年第一次尝试搭建博客，期间尝试各种生产力工具到现如今的第三次迁移服务器，终于打造了一个完美契合，效率至上的数字文具盒。在这期间踩了无数大大小小的坑，折腾了一次又一次；虽然折腾浪费时间，但是依旧是收获满满。&lt;/p></description></item><item><title>首页加载速度优化方案</title><link>https://blog.7wate.com/%E9%A6%96%E9%A1%B5%E5%8A%A0%E8%BD%BD%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/</link><pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E9%A6%96%E9%A1%B5%E5%8A%A0%E8%BD%BD%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/</guid><description>&lt;p>自己一条龙研发的 Halo 博客主题 &lt;a href="https://blog.7wate.com/?p=85">Redemption&lt;/a> 最近也是发布了首个正式版，在博友 &lt;a href="https://dujun.io/">杜郎俊赏&lt;/a> 提供的 &lt;a href="https://dujun.io/cleancss-remove-unused-css.html">CleanCSS&lt;/a> 工具下麻溜地搞定了，同时又添加了一些自己的想法。主要思路是首页做减法：删减无用代码文件、压缩静态资源体积，同时完全不影响首页的内容展示。&lt;/p></description></item><item><title>Halo 主题 Redemption 首发版</title><link>https://blog.7wate.com/halo-%E4%B8%BB%E9%A2%98-redemption-%E9%A6%96%E5%8F%91%E7%89%88/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/halo-%E4%B8%BB%E9%A2%98-redemption-%E9%A6%96%E5%8F%91%E7%89%88/</guid><description>&lt;p>
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class="">
+
+ &lt;div>
+ &lt;img loading="lazy" alt="img" src="https://static.7wate.com/img/2022/11/02/4057d365c897c.png" >
+ &lt;/div>
+
+ 
+&lt;/figure>
+&lt;/p>
+&lt;p>Redemption 一款专注阅读、写作的 &lt;a href="https://halo.run/">Halo 博客&lt;/a> 主题。主要设计思想即是专注阅读、写作，是一款极简类型的博客主题。&lt;/p>
+&lt;p>Redemption 部分设计灵感借鉴 Halo 博客 Zozo 主题，感谢各位前辈的无私开源。特意针对首屏加载进行优化，无需 CDN&lt;strong>首屏 0.7s 内加载完成。全尺寸媒体自适应查询以及自适应深/浅色模式，让你专注写作，不带感情！&lt;/strong>&lt;/p></description></item><item><title>Redemption 主题 0.2.1 版本</title><link>https://blog.7wate.com/redemption-%E4%B8%BB%E9%A2%98-0.2.1-%E7%89%88%E6%9C%AC/</link><pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/redemption-%E4%B8%BB%E9%A2%98-0.2.1-%E7%89%88%E6%9C%AC/</guid><description>&lt;p>这次 0.2.1 版本是基于博友的发现，简单处理了以下两个问题、并添加适配了文章页 Markdown 渲染 CSS 样式。&lt;/p>
+&lt;p>&lt;a href="https://git.7wate.com/zhouzhongping/Redemption">点击打开 Git 仓库下载主题&lt;/a>&lt;/p>
+&lt;h2 class="heading" id="自适应媒体查询无法正确适配屏幕">
+ 自适应媒体查询无法正确适配屏幕
+ &lt;a class="anchor" href="#%e8%87%aa%e9%80%82%e5%ba%94%e5%aa%92%e4%bd%93%e6%9f%a5%e8%af%a2%e6%97%a0%e6%b3%95%e6%ad%a3%e7%a1%ae%e9%80%82%e9%85%8d%e5%b1%8f%e5%b9%95">#&lt;/a>
+&lt;/h2>
+&lt;p>基于 870px 作为阈值，划分了移动端和桌面端；移动端暂未发现明显问题，未修改 ~&lt;/p></description></item><item><title>使用 Docusaurus 搭建优秀个人wiki</title><link>https://blog.7wate.com/%E4%BD%BF%E7%94%A8-docusaurus-%E6%90%AD%E5%BB%BA%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BAwiki/</link><pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E4%BD%BF%E7%94%A8-docusaurus-%E6%90%AD%E5%BB%BA%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BAwiki/</guid><description>&lt;p>Docusaurus 是一款&lt;strong>静态站点生成器&lt;/strong>。 可以搭建带有快速客户端导航的&lt;strong>单页应用&lt;/strong>，充分利用了 &lt;strong>React&lt;/strong>，让你的网站具有交互能力。 它提供了开箱即用的&lt;strong>文档功能&lt;/strong>，不过也可用于搭建&lt;strong>各种网站&lt;/strong>：个人网站、产品、博客、营销主页等等。&lt;/p></description></item><item><title>数字文化遗产</title><link>https://blog.7wate.com/%E6%95%B0%E5%AD%97%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7/</link><pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E6%95%B0%E5%AD%97%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7/</guid><description>&lt;p>当下随着工业社会的进步和发展，让我们拥有了丰富多彩的生活方式。书写博客便是其中之一，但博客作为个体的文化资产，百年之后又该何去何从呢？&lt;/p>
+&lt;p>2001 年中国互联网协会成立，姑且暂定个人互联网于 2002 年兴起。今年也恰好是 2022 年，个人互联网的第二十年，那么最早一批拥有个人博客的前辈目前应该也临近退休。&lt;/p></description></item><item><title>三步为你博客文章分析情感关键字</title><link>https://blog.7wate.com/%E4%B8%89%E6%AD%A5%E4%B8%BA%E4%BD%A0%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%88%86%E6%9E%90%E6%83%85%E6%84%9F%E5%85%B3%E9%94%AE%E5%AD%97/</link><pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E4%B8%89%E6%AD%A5%E4%B8%BA%E4%BD%A0%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E5%88%86%E6%9E%90%E6%83%85%E6%84%9F%E5%85%B3%E9%94%AE%E5%AD%97/</guid><description>&lt;p>最近闲来无事（其实真的不能说自己闲，有毒……），便想着用 Python 分析一下博客文章关键字，看看平时博客主要写了些什么，能不能从中探寻到什么？&lt;/p>
+&lt;h2 class="heading" id="如何使用">
+ 如何使用
+ &lt;a class="anchor" href="#%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8">#&lt;/a>
+&lt;/h2>
+&lt;p>项目地址：https://git.7wate.com/zhouzhongping/BlogWordCloud&lt;/p></description></item><item><title>Redemption</title><link>https://blog.7wate.com/redemption/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/redemption/</guid><description>&lt;p>一款 Halo 博客主题，前前后后增删改了总计近万行；借鉴 halo-theme-zozo 主题样式，自定义了一些特色。也算圆了自己想独立开发一款博客主题的念想……&lt;/p>
+&lt;h2 class="heading" id="redemption">
+ Redemption
+ &lt;a class="anchor" href="#redemption">#&lt;/a>
+&lt;/h2>
+&lt;p>目前支持如下，将来根据需求开发。并不打算做大做强哈哈，再创辉煌 🙄。以阅读为第一要素，所以&lt;strong>并未明显&lt;/strong>提供较现代化功能按钮，丰富了字体、字号的选择（未提供设置选项）。&lt;/p></description></item><item><title>浅谈一下自己折腾的网站</title><link>https://blog.7wate.com/%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%87%AA%E5%B7%B1%E6%8A%98%E8%85%BE%E7%9A%84%E7%BD%91%E7%AB%99/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%87%AA%E5%B7%B1%E6%8A%98%E8%85%BE%E7%9A%84%E7%BD%91%E7%AB%99/</guid><description>&lt;p>折腾了好久网站了，也折腾了好久的服务器了。网络拓扑图也不想画了，总之就是弃繁就简了，一切以使用、需求为出发点。&lt;/p>
+&lt;h2 class="heading" id="网站">
+ 网站
+ &lt;a class="anchor" href="#%e7%bd%91%e7%ab%99">#&lt;/a>
+&lt;/h2>
+&lt;p>
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class="">
+
+ &lt;div>
+ &lt;img loading="lazy" alt="网站" src="https://static.7wate.com/img/2022/02/14/08f047659ab8f.png" >
+ &lt;/div>
+
+ 
+&lt;/figure>
+&lt;/p>
+&lt;h3 class="heading" id="bitwarden">
+ Bitwarden
+ &lt;a class="anchor" href="#bitwarden">#&lt;/a>
+&lt;/h3>
+&lt;p>开源的密码管理器，平时自己的密码全都放在这个上面了。&lt;/p></description></item><item><title>我开发的第一款软件</title><link>https://blog.7wate.com/%E6%88%91%E5%BC%80%E5%8F%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E8%BD%AF%E4%BB%B6/</link><pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E6%88%91%E5%BC%80%E5%8F%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%BE%E8%BD%AF%E4%BB%B6/</guid><description>&lt;p>无意间发现 CSDN 显示自己拥有九年码龄，就勾起了很深的记忆。那时刚开始接触程序设计的时候，经常接触到易语言、精益论坛、吾爱破解、看雪论坛等等。所以就一个一个登录查看有没有当年留下的痕迹……&lt;/p></description></item><item><title>开源软件之道</title><link>https://blog.7wate.com/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E4%B9%8B%E9%81%93/</link><pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E4%B9%8B%E9%81%93/</guid><description>&lt;p>源代码开放的软件并不一定是开源软件，开源软件有着严格统一的的定义，封闭软件（Closed Software）、自由软件（Free software）和开源软件（Open source software）有着显著地区别。&lt;/p></description></item><item><title>如何免费创建一个属于自己的网站</title><link>https://blog.7wate.com/%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99/</link><pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate><guid>https://blog.7wate.com/%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E7%AB%99/</guid><description>&lt;p>分享这篇文章，主要是给室友栋哥写的。嘿嘿，有其他需要尝试的也可以自己尝试一下，免费空间不用安装服务器软件，也不用担心域名注册备案访问问题，用来学习建站最好不过。如果真的想建设一个网站，还是不要嫌麻烦，找好的服务器和域名，这样也就不用担心其他有的没的问题。&lt;/p></description></item></channel></rss>
